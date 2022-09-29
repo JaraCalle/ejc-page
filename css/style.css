@@ -833,3 +833,8 @@ cta
 .pager li>a, .pager li>span{
     color: #03a9f4;
 }
+
+.margin-left {
+    margin-left: 20px;
+    margin-right: 10px;
+}
